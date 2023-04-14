@@ -1,2 +1,2 @@
-# exercice-navbar-responsive
-Plusieur Exercices pour faire une navbar en JS
+# Exercices-navbar-responsive
+Plusieurs Exercices pour faire une navbar en JS
